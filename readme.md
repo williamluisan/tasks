@@ -1,5 +1,5 @@
 ## Description
-Task from DL Ideas to submit
+Task to submit
 (Codeigniter 3 framework)
 1. Google Sign-in and access contact list (with CURL): __./application/modules/google_login__  
 2. Simple database structure (shopping cart): __./shopping_cart.sql__ (ER Diagram: __./shopping_cart_er_diagram.png__)  
