@@ -18,13 +18,6 @@ class Login extends CI_Controller
         $this->load->view('login', $data);
     }
 
-    public function logout()
-    {
-        $data['client_id'] = $this->config->item('google_client')['client_id'];
-
-        $this->load->view('logout', $data);
-    }
-
     public function authenticate()
     {
         // google api php client
